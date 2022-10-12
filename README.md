@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sivaprasad C
-- 👀 I’m interested in fRONTEND development 
+- 👀 I’m interested in Frontend-development 
 - 🌱 I’m currently learning Btech in Computer Science
 - 📫 How to reach me sivaprasadshines43@gmail.com
 
