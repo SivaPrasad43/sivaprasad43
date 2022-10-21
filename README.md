@@ -18,13 +18,9 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🛍%20Seewe%20MarketplaceApp-000)](https://github.com/SivaPrasad43/Seewe)
+[![](https://img.shields.io/badge/-💟%20NSS%20Website-000)](https://github.com/SivaPrasad43/NSS-Website)
+[![](https://img.shields.io/badge/-📚%20Bookzone%20Helper-000)](https://github.com/SivaPrasad43/BookZone_helper)
 
 
 
