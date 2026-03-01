@@ -98,15 +98,3 @@ I build things for the web. Sometimes they look good, sometimes they work wellâ€
 Building scalable applications with clean interfaces. Exploring AI integrations and security best practices.
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SivaPrasad43/sivaprasad43/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SivaPrasad43&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_title=true"/>
-
-</div>
